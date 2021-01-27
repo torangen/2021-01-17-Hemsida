@@ -1,0 +1,46 @@
+h1 {
+    color: black;
+    font-size: xx-large;
+    font-weight: 600;
+    font-style: bold;
+    text-align: center;
+    background-color: red;
+    
+}
+body{
+    background-attachment: ;
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-image: url(../images/Business-background.jpg) 
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-top: 5px solid green; 
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px purple;
+    opacity: ;
+
+}
+ 
+
+    /*This is a single line comment*/
+
+    /*This comment 
+    takes up
+    multiple wors*/
+
+    p {
+        color: red;
+        color: orange;
+    }
+
+    #second-paragraph {
+        color: purple;
+    }
+
+    .cooperation, .last-paragraph {
+        color: pink;
+    }
